@@ -3,6 +3,7 @@ import pandas as pd
 from math import e
 def hola_f(hola):
     print('hola')
+    print('chau')
 
 
 def Richford_Rice(F, T, P, compuestos_u, comp, v_prima):
