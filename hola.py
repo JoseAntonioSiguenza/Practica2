@@ -152,3 +152,5 @@ def Richford_Rice(F, T, P, compuestos_u, comp, v_prima):
             acum += 1
         print("El valor del balance fue de ", bal, 'kJ/h\nEl valor de la temperatura de operación del flash fue de ',
               T_flash, '˚C y se necesitaron', acum, 'iteraciones')
+        print('hola mundo')
+        print('chao mundo')
