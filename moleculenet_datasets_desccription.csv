@@ -4,8 +4,8 @@ BACE (Classification),Provides bindings results for a set of inhibitors of human
 BBBC (BBBC001),Images of HT29 colon cancer cells,Images,6,ref <https://data.broadinstitute.org/bbbc/BBBC001/>'
 BBBC (BBBC002),Images of Drosophilia Kc167 cells,Images,50,ref <https://data.broadinstitute.org/bbbc/BBBC001/>'
 BBBP,Blood-Brain Barrier Penetration designed for the modeling and prediction of barrier permeability,Binary labels on permeability properties,2000,`ref <https://pubs.rsc.org/en/content/articlehtml/2018/sc/c7sc02664a>`
-Cell Counting,Synthetic emulations of fluorescence microscopic images of bacterial cells,Images,200,ref <http://www.robots.ox.ac.uk/~vgg/research/counting/index_org.html.>'
-ChEMBL (set = ‘sparse’),A sparse subset of ChEMBL with activity data for one target,Molecules,244 245,ref <https://www.ebi.ac.uk/chembl/.>'
+Cell Counting,Synthetic emulations of fluorescence microscopic images of bacterial cells,Images,200,'ref <http://www.robots.ox.ac.uk/~vgg/research/counting/index_org.html.>'
+ChEMBL (set = ‘sparse’),A sparse subset of ChEMBL with activity data for one target,Molecules,244 245,'ref <https://www.ebi.ac.uk/chembl/.>'
 ChEMBL (set = ‘5thresh’),A subset of ChEMBL with activity data for at least five targets,Molecules,23 871,ref <https://www.ebi.ac.uk/chembl/.>'
 ChEMBL25,,Molecules,,ref <https://www.ebi.ac.uk/chembl/.>'
 Clearance,,,,ref <https://arxiv.org/abs/1703.00564>'
