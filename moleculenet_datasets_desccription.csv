@@ -1,5 +1,5 @@
 ﻿Name,Description,Type ,Data Points,Reference
-BACE (Regression),Provides bindings results for a set of inhibitors of human beta-secretase (BACE-1),Molecules,1513,`ref <https://pubs.rsc.org/en/content/articlehtml/2018/sc/c7sc02664a>`
+BACE (Regression),Provides bindings results for a set of inhibitors of human beta-secretase (BACE-1),Molecules,1513,[reference] (https://pubs.rsc.org/en/content/articlehtml/2018/sc/c7sc02664a)
 BACE (Classification),Provides bindings results for a set of inhibitors of human beta-secretase (BACE-1),Molecules,1513,`ref <https://pubs.rsc.org/en/content/articlehtml/2018/sc/c7sc02664a>`
 BBBC (BBBC001),Images of HT29 colon cancer cells,Images,6,ref <https://data.broadinstitute.org/bbbc/BBBC001/>'
 BBBC (BBBC002),Images of Drosophilia Kc167 cells,Images,50,ref <https://data.broadinstitute.org/bbbc/BBBC001/>'
