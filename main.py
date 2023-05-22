@@ -7,7 +7,7 @@ v_prima=float(input("v': "))
 F=int(input('Flujo de alimentación (kmol/h): '))
 compuestos=input('Hidrocarburos: ').split(',')
 comp=input('zi: ').split(',')
-print(' ')
+print(hello world')
 
 hola='hola'
 hola_f(hola)
