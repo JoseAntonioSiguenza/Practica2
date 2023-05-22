@@ -12,6 +12,12 @@ def h():
   a = 1
   b =3
   return a+b
+
+def h():
+  a = 1
+  b =3
+  return a+b
+
 hola='hola'
 hola_f(hola)
 Richford_Rice(F,T,P,compuestos,comp,v_prima)
